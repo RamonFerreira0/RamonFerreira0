@@ -6,11 +6,17 @@
 
 ### *Um pouco sobre mim.* ⤵️
 
- Sou graduado em Análise e Desenvolvimento de Sistemas da Faculdade CESUSC. E estou realizando cursos na área de desenvolvimento para aprimorar meus conhecimentos, irei cursar uma pós graduação neste ano (2023) em engenharia de Softwares.
+ Sou Graduado em Análise e Desenvolvimento de Sistemas pela faculdade Cesusc, especialista em Desenvolvimento Web Full Stack pela Anhanguera. 
 
-Estou em busca de uma experiência na área de tecnologia para colocar em prática meus conhecimentos e fazer com que eu desenvolva minhas competências, tendo um aprendizado constante dentro da organização, além de ajudá-la á alcançar suas metas e ultrapassar desafios visando sempre a ética e a transparência.
+Trabalhei quase cinco anos no ramo imobiliário como consultor de locações/vendas, onde aprimorei habilidades de capacidade analítica, trabalho em equipe e negociação. 
 
-Meu objetivo é contribuir para o crescimento e destaque da organização através das  minhas atividades desenvolvidas sempre entregando o máximo do meu trabalho.
+Com a minha formação em ADS, decidi realizar a transição de carreira e ingressei na área há mais de um ano como suporte técnico e atualmente estou como analista de implantação na YUZER, empresa de software voltada para o impulsionamento e gestão integrada de vendas de ingressos e produtos.
+
+Tenho um papel ativo na otimização de sistemas, colaborando diretamente com desenvolvedores e proporcionando soluções ágeis e inovadoras.
+
+Possuo conhecimentos e prática com metodologias ágeis (Scrum), realização de testes de validação do software, instalações de aplicações, softwares atrelados a PDV, Adquirentes, área de pagamentos e atendimento/acompanhamento/treinamento ao cliente de forma presencial e remota.
+
+Sou focado e comprometido com minhas entregas e sempre busco novos conhecimentos. :)
 
 ### *Conhecimento em andamento em:*
 
